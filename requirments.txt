@@ -1,0 +1,4 @@
+enquiries
+mysql.conector
+os
+termcolor
